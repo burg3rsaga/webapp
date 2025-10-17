@@ -6,5 +6,6 @@ NODE_ENV=development
 DATABASE_URL=mongodb://localhost:27017/myapp
 
 # Secret keys
-JWT_SECRET=your_jwt_secret_here
-API_KEY=your_api_key_here
+JWT_SECRET="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+
+API_KEY="X7b9Kz3mPq8vT2rY6wL4nJ9xF5tC0hR8dM2vQ1"
